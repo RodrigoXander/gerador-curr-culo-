@@ -1,0 +1,1 @@
+Bem esse fui um trabalho de faculdade aonde o meu professor nos instruiu a realizar um gerador de currículo, você consegue colocar os dados e gerar um currículo de forma simples e intuitiva espero que tenho ajudado.
